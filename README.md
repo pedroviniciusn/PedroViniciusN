@@ -1,7 +1,7 @@
 ## Olá, me chamo Pedro Vinícius 👋
 
 - **Software engineering student 👨🏻‍💻**
-- **Front-end Developer**
+- **Web Developer**
 
 ### Curiosidades 
 
