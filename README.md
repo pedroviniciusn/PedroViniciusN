@@ -2,5 +2,5 @@
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://www.instagram.com/pedroviniciusn_/) 
 
 - Software engineering student 
-- Web developer: `JavaScript`, `TypeScript`, `React`, `Next.js`, `TailwindCSS`, `Node.js`, `Jest` ...
+- Web developer: `JavaScript`, `TypeScript`, `React`, `Next.js`, `Node.js`, `PHP`, `Laravel` ...
 - I enjoy photography, reading, and lifting weights :)
