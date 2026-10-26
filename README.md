@@ -1,3 +1,3 @@
 - Software engineering student 
 - Software developer: `JavaScript`, `TypeScript`, `React`, `React Native`, `Node.js`...
-- I enjoy photography, reading, and lifting weights :)
+- I enjoy reading, jiu-jitsu, and lifting weights :)
